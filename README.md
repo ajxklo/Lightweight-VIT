@@ -28,7 +28,8 @@ Finally, we propose future research directions and potential   challenges in the
 4. **Framework Design**
 ## Dynamic Network
 1. **Dynamic Resolution**
-2. **Depth Adaptation**
+   
+3. **Depth Adaptation**
 ## Knowledge Distillation
 1. **Feature Knowledge Distillation**
 2. **Response Knowledge Distillation**
