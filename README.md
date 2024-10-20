@@ -38,6 +38,18 @@ Finally, we propose future research directions and potential   challenges in the
     - **RepViT: Revisiting Mobile CNN From ViT Perspective**
       [[GitHub](https://github.com/THU-MIG/RepViT)] [[PDF](https://arxiv.org/abs/2307.09283)]
 2. ### Efficient Position Encoding
+   - **Rotary Position Embedding for Vision Transformer**
+     [[GitHub](https://github.com/naver-ai/rope-vit)] [[PDF](https://arxiv.org/abs/2403.13298#:~:text=Rotary%20Position%20Embedding%20%28RoPE%29%20performs%20remarkably%20on%20language,in%20a%20way%20similar%20to%20the%20language%20domain.)]
+    - **Parameterization of Cross-Token Relations with Relative Positional Encoding for Vision MLP**
+      [[GitHub](https://github.com/Zhicaiwww/PosMLP)] [[PDF](https://arxiv.org/abs/2207.07284)]
+    - **Lightweight Structure-Aware Attention for Visual Understanding**
+      [[PDF](https://arxiv.org/abs/2211.16289v1)]
+    - **Functional Interpolation for Relative Positions Improves Long Context Transformers**
+      [[PDF](https://arxiv.org/abs/2310.04418)]
+    - **RELATIVE POSITIONAL ENCODING FAMILY VIA UNITARY TRANSFORMATION**
+      [[PDF](https://openreview.net/pdf?id=xMWFqb5Uyk)]
+    - **Conditional Positional Encodings for Vision Transformers**
+      [[GitHub](https://github.com/Meituan-AutoML/CPVT)] [[PDF](https://arxiv.org/abs/2102.10882)]
 3. ### Efficient Token Update
 4. ### Framework Design
 ## Dynamic Network
