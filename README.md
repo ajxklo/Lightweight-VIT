@@ -35,8 +35,12 @@ Finally, we propose future research directions and potential   challenges in the
      [[GitHub](https://github.com/OliverRensu/Shunted-Transformer)] [[PDF](https://arxiv.org/abs/2111.15193)]
     - **Patch Slimming for Efficient Vision Transformers**
      [[PDF](https://arxiv.org/abs/2106.02852)]
+    - **Shunted Self-Attention via Multi-Scale Token Aggregation**
+      [[GitHub](https://github.com/OliverRensu/Shunted-Transformer)] [[PDF](https://arxiv.org/abs/2111.15193)]
     - **RepViT: Revisiting Mobile CNN From ViT Perspective**
       [[GitHub](https://github.com/THU-MIG/RepViT)] [[PDF](https://arxiv.org/abs/2307.09283)]
+    - **TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation**
+      [[GitHub](https://github.com/hustvl/TopFormer)] [[PDF](https://arxiv.org/abs/2204.05525v1)]
 2. ### Efficient Position Encoding
    - **Rotary Position Embedding for Vision Transformer**
      [[GitHub](https://github.com/naver-ai/rope-vit)] [[PDF](https://arxiv.org/abs/2403.13298#:~:text=Rotary%20Position%20Embedding%20%28RoPE%29%20performs%20remarkably%20on%20language,in%20a%20way%20similar%20to%20the%20language%20domain.)]
@@ -51,6 +55,34 @@ Finally, we propose future research directions and potential   challenges in the
     - **Conditional Positional Encodings for Vision Transformers**
       [[GitHub](https://github.com/Meituan-AutoML/CPVT)] [[PDF](https://arxiv.org/abs/2102.10882)]
 3. ### Efficient Token Update
+    - **Global Filter Networks for Image Classification**
+      [[GitHub](https://github.com/raoyongming/GFNet)] [[PDF](https://arxiv.org/abs/2107.00645)]
+    - **Focal Self-attention for Local-Global Interactions in Vision Transformers**
+      [[PDF](https://arxiv.org/abs/2107.00641)]
+    - **Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
+      [[GitHub](https://github.com/yitu-opensource/T2T-ViT)] [[PDF](https://arxiv.org/abs/2101.11986)]
+    - **CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows**
+      [[GitHub](https://github.com/microsoft/CSWin-Transformer)] [[PDF](https://arxiv.org/abs/2107.00652)]
+    - **MaxViT: Multi-Axis Vision Transformer**
+      [[GitHub](https://github.com/google-research/maxvit)] [[PDF](https://arxiv.org/abs/2204.01697)]
+    - **Skip-Attention: Improving Vision Transformers by Paying Less Attention**
+      [[PDF](https://arxiv.org/abs/2301.02240)]
+    - **SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications**
+      [[GitHub](https://github.com/Amshaker/SwiftFormer)] [[PDF](https://arxiv.org/abs/2303.15446)]
+    - **BiFormer: Vision Transformer with Bi-Level Routing Attention**
+      [[GitHub](https://github.com/rayleizhu/BiFormer)] [[PDF](https://arxiv.org/abs/2303.08810)]
+    - **ReViT: Enhancing Vision Transformers Feature Diversity with Attention Residual Connections**
+      [[PDF](https://arxiv.org/abs/2402.11301)]
+    - **Vision Transformer with Sparse Scan Prior**
+      [[GitHub](https://github.com/qhfan/SSViT)] [[PDF](https://arxiv.org/abs/2405.13335)]
+    - **ConvMLP: Hierarchical Convolutional MLPs for Vision**
+      [[GitHub](https://github.com/SHI-Labs/Convolutional-MLPs)] [[PDF](https://ar5iv.labs.arxiv.org/html/2109.04454)]
+    - **CycleMLP: A MLP-like Architecture for Dense Prediction**
+      [[GitHub](https://github.com/ShoufaChen/CycleMLP)] [[PDF](https://arxiv.org/pdf/2107.10224v1)]
+    - **ResMLP: Feedforward networks for image classification with data-efficient training**
+      [[PDF](https://arxiv.org/abs/2105.03404)]
+    - **Hire-MLP: Vision MLP via Hierarchical Rearrangement**
+      [[GitHub](https://github.com/ggjy/Hire-Wave-MLP.pytorch)] [[PDF](https://arxiv.org/abs/2108.13341)]
 4. ### Framework Design
 ## Dynamic Network
 1. ### Dynamic Resolution
