@@ -22,14 +22,27 @@ Finally, we propose future research directions and potential   challenges in the
 
 
 ## Efficient ViT Components
-1. **Embedding Structure Design**
-2. **Efficient Position Encoding**
-3. **Efficient Token Update**
-4. **Framework Design**
+1. ### Embedding Structure Design
+    - **CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification**
+     [[GitHub](https://github.com/IBM/CrossViT)] [[PDF](https://arxiv.org/abs/2103.14899)]
+    - **CvT: Introducing Convolutions to Vision Transformers**
+     [[GitHub](https://github.com/leoxiaobin/CvT)] [[PDF](https://arxiv.org/pdf/2103.15808)]
+    - **MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer**
+     [[GitHub](https://github.com/apple/ml-cvnets)] [[PDF](https://arxiv.org/abs/2103.15808)]
+    - **Mobile-Former: Bridging MobileNet and Transformer**
+     [[PDF](https://arxiv.org/abs/2108.05895)]
+    - **Shunted Self-Attention via Multi-Scale Token Aggregation**
+     [[GitHub](https://github.com/OliverRensu/Shunted-Transformer)] [[PDF](https://arxiv.org/abs/2111.15193)]
+    - **Patch Slimming for Efficient Vision Transformers**
+     [[PDF](https://arxiv.org/abs/2106.02852)]
+    - **RepViT: Revisiting Mobile CNN From ViT Perspective**
+      [[GitHub](https://github.com/THU-MIG/RepViT)] [[PDF](https://arxiv.org/abs/2307.09283)]
+2. ### Efficient Position Encoding
+3. ### Efficient Token Update
+4. ### Framework Design
 ## Dynamic Network
-1. **Dynamic Resolution**
-   
-3. **Depth Adaptation**
+1. ### Dynamic Resolution
+2. ### Depth Adaptation
 ## Knowledge Distillation
-1. **Feature Knowledge Distillation**
-2. **Response Knowledge Distillation**
+1. ### Feature Knowledge Distillation
+2. ### Response Knowledge Distillation
