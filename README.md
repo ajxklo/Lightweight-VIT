@@ -84,9 +84,73 @@ Finally, we propose future research directions and potential   challenges in the
     - **Hire-MLP: Vision MLP via Hierarchical Rearrangement**
       [[GitHub](https://github.com/ggjy/Hire-Wave-MLP.pytorch)] [[PDF](https://arxiv.org/abs/2108.13341)]
 4. ### Framework Design
+   - **Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
+      [[GitHub](https://github.com/whai362/PVT)] [[PDF](https://arxiv.org/abs/2102.12122)]
+   - **Vision Transformers with Hierarchical Attention**
+       [[GitHub](https://github.com/yun-liu/HAT-Net)] [[PDF](https://arxiv.org/abs/2106.03180)]
+   - **Twins: Revisiting the Design of Spatial Attention in Vision Transformers**
+       [[GitHub](https://github.com/Meituan-AutoML/Twins)] [[PDF](https://arxiv.org/abs/2104.13840)]
+   - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**
+       [[GitHub](https://github.com/microsoft/Swin-Transformer)] [[PDF](https://arxiv.org/abs/2103.14030)]
+   - **MaxViT: Multi-Axis Vision Transformer**
+       [[GitHub](https://github.com/google-research/maxvit)] [[PDF](https://arxiv.org/abs/2204.01697)]
+   - **FDViT: Improve the Hierarchical Architecture of Vision Transformer**
+       [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_FDViT_Improve_the_Hierarchical_Architecture_of_Vision_Transformer_ICCV_2023_paper.pdf)]
+   - **HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling**
+       [[PDF](https://arxiv.org/abs/2205.14949)]
+   -  **Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles**
+       [[GitHub](https://github.com/facebookresearch/hiera)] [[PDF](https://arxiv.org/abs/2306.00989)]
+   - **HIRI-ViT: Scaling Vision Transformer with High Resolution Inputs**
+       [[PDF](https://arxiv.org/abs/2403.11999)]
 ## Dynamic Network
 1. ### Dynamic Resolution
+   - **Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer**
+       [[GitHub](https://github.com/YifanXu74/Evo-ViT)] [[PDF](https://arxiv.org/pdf/2108.01390)]
+   - **DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**
+       [[GitHub](https://github.com/raoyongming/DynamicViT)] [[PDF](https://arxiv.org/abs/2106.02034#)]
+   - **EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**
+       [[GitHub](https://github.com/nkusyl/EViT)] [[PDF](https://arxiv.org/abs/2310.06629)]
+   - **SPViT: Enabling Faster Vision Transformers via Soft Token Pruning**
+       [[PDF](https://arxiv.org/abs/2112.13890)]
+   - **HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**
+       [[PDF](https://arxiv.org/abs/2211.08110)]
+   - **HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**
+       [[PDF](https://arxiv.org/abs/2211.08110)]
+   - **CF-ViT: A General Coarse-to-Fine Method for Vision Transformer**
+       [[PDF](https://arxiv.org/abs/2203.03821)]
+   - **No Token Left Behind: Efficient Vision Transformer via Dynamic Token Idling**
+       [[PDF](https://arxiv.org/abs/2310.05654v2)]
+   - **ATS: Adaptive Token Sampling For Efficient Vision Transformers**
+       [[PDF](https://arxiv.org/abs/2111.15667v1)]
+   - **TPC-ViT: Token Propagation Controller for Efficient Vision Transformer**
+       [[PDF](https://arxiv.org/abs/2401.01470)]
+   - **Multi-Scale And Token Mergence: Make Your ViT More Efficient**
+       [[PDF](https://arxiv.org/abs/2306.04897)]
+   - **Super Vision Transformer**
+       [[GitHub](https://github.com/lmbxmu/SuperViT)] [[PDF](https://arxiv.org/pdf/2205.11397v2)]
+   - **Token Merging: Your ViT But Faster**
+       [[GitHub](https://github.com/facebookresearch/ToMe)] [[PDF](https://arxiv.org/abs/2210.09461)]
+   - **Token Fusion: Bridging the Gap between Token Pruning and Token Merging**
+       [[PDF](https://arxiv.org/pdf/2312.01026)]
+   - **Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**
+       [[GitHub](https://github.com/zengwang430521/TCFormer.git)] [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_Not_All_Tokens_Are_Equal_Human-Centric_Visual_Analysis_via_Token_CVPR_2022_paper.pdf)]
 2. ### Depth Adaptation
+   - **A-ViT: Adaptive Tokens for Efficient Vision Transformer**
+       [[GitHub](https://github.com/NVlabs/A-ViT)] [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.pdf)]
+   - **Distillation-Based Training for Multi-Exit Architectures**
+       [[PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf)]
+   - **Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead**
+       [[PDF](https://arxiv.org/abs/2105.09121)]
+   - **Multi-Exit Vision Transformer for Dynamic Inference**
+       [[PDF](https://arxiv.org/abs/2106.15183v1)]
+   - **LGViT: Dynamic Early Exiting for Accelerating Vision Transformer**
+       [[PDF](https://arxiv.org/abs/2308.00255)]
+   - **Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition**
+       [[PDF](https://arxiv.org/abs/2407.14302)]
+   - **CF-ViT: A General Coarse-to-Fine Method for Vision Transformer**
+       [[GitHub](https://github.com/ChenMnZ/CF-ViT)] [[PDF](https://arxiv.org/abs/2203.03821)]
+   - **AdaViT: Adaptive Vision Transformers for Efficient Image Recognition**
+       [[PDF](https://arxiv.org/pdf/2111.15668)]
 ## Knowledge Distillation
 1. ### Feature Knowledge Distillation
 2. ### Response Knowledge Distillation
